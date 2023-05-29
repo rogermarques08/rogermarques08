@@ -21,14 +21,14 @@
  ##
 
 
-<!-- ### GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogermarques08&count_private=true&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogermarques08&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## -->
+##
   
 ### Tecnologias que utilizo
   <div align="center">
