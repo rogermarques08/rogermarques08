@@ -1,10 +1,9 @@
 ### Olá, Me Chamo Roger👋
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- :basketball: Sou apaixonado por Basquete e tecnologia
-- 🔭 Atualmente sou estudante de Desenvolvimento Web na Trybe
-- :heavy_check_mark: Módulos de Fundamentos e Frontend concluídos
-- 🌱 Estou iniciando o módulo de Backend
+- :basketball: Sou apaixonado por basquete e tecnologia
+- 🔭 Atualmente trabalho com desenvolvimento web
+- 🌱 Estou estudando Laravel
 - ⚡ Você poderá acompanhar minha evolução nos repositórios abaixo
 
 ##
@@ -46,6 +45,4 @@
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
-##
-  ![Snake animation](https://github.com/rogermarques08/rogermarques08/blob/output/github-contribution-grid-snake.svg)
   
